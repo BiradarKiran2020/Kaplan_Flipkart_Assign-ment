@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-02-06T02:59:39 IST" name="Suite" finished-at="2023-02-06T03:01:42 IST" duration-ms="122627">
+    <groups>
+    </groups>
+    <test started-at="2023-02-06T02:59:39 IST" name="ChromeTest" finished-at="2023-02-06T03:01:42 IST" duration-ms="122627">
+      <class name="Test.FlipkartTest">
+        <test-method is-config="true" signature="lunchBrowser(java.lang.String)[pri:0, instance:Test.FlipkartTest@78691363]" started-at="2023-02-06T02:59:39 IST" name="lunchBrowser" finished-at="2023-02-06T03:00:01 IST" duration-ms="21605" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- lunchBrowser -->
+        <test-method signature="loginPage()[pri:1, instance:Test.FlipkartTest@78691363]" started-at="2023-02-06T03:00:01 IST" name="loginPage" finished-at="2023-02-06T03:00:01 IST" duration-ms="78" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPage -->
+        <test-method signature="mouseHoverOnFashion()[pri:2, instance:Test.FlipkartTest@78691363]" started-at="2023-02-06T03:00:01 IST" name="mouseHoverOnFashion" finished-at="2023-02-06T03:00:43 IST" duration-ms="41562" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mouseHoverOnFashion -->
+        <test-method signature="dragDrop()[pri:3, instance:Test.FlipkartTest@78691363]" started-at="2023-02-06T03:00:43 IST" name="dragDrop" finished-at="2023-02-06T03:01:03 IST" duration-ms="20109" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dragDrop -->
+        <test-method signature="naviagation()[pri:4, instance:Test.FlipkartTest@78691363]" started-at="2023-02-06T03:01:03 IST" name="naviagation" finished-at="2023-02-06T03:01:14 IST" duration-ms="11312" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- naviagation -->
+        <test-method signature="switchWindows()[pri:5, instance:Test.FlipkartTest@78691363]" started-at="2023-02-06T03:01:14 IST" name="switchWindows" finished-at="2023-02-06T03:01:27 IST" duration-ms="13044" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- switchWindows -->
+        <test-method signature="naviagate()[pri:6, instance:Test.FlipkartTest@78691363]" started-at="2023-02-06T03:01:27 IST" name="naviagate" finished-at="2023-02-06T03:01:39 IST" duration-ms="11857" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- naviagate -->
+        <test-method is-config="true" signature="browserClose()[pri:0, instance:Test.FlipkartTest@78691363]" started-at="2023-02-06T03:01:39 IST" name="browserClose" finished-at="2023-02-06T03:01:42 IST" duration-ms="2729" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserClose -->
+      </class> <!-- Test.FlipkartTest -->
+    </test> <!-- ChromeTest -->
+  </suite> <!-- Suite -->
+</testng-results>
